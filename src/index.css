@@ -1,0 +1,15 @@
+
+.myform{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width:600px;
+    height:600px;
+    gap:20px;
+}
+h1{
+    text-align: center;
+}
+.error{
+    color:red;
+}
